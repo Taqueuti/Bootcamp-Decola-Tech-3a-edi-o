@@ -1,12 +1,12 @@
 # O que é lógica ? 
 
-+ Problema
+## Problema
 
 ### Definição formal de problema
 
 "Problema é uma questão que foge a uma determinada regra, ou melhor é um desvio de percurso, o qual impede de atingir um objetivo com eficiencia e eficácia."
 
-+ Lógica
+## Lógica
 
 ### Definição de lógica
 
