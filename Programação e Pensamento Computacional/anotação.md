@@ -59,4 +59,20 @@
 - +Eficiência
 - -Tempo
 	
+### Como decompor?
 
+Indentificar ou coletar dados ➡️ Agregar os dados ➡️ funcionalidade ➡️ Decomposição ➡️ Coletar Dados ➡️ Dados
+
+#### Ex do cotidiano: Cozinhar 👨‍🍳.
+
++ Indentificar os ingredientes
++ Determinar as estapas (sequência ou paralelo)
++ Executar cada etapa
++ Agregar os ingredientes para finalizar (recompor com coerência)
+
+
+#### Ex do cotidiano: Bike 🚲.
+===Funçcionamento do Sistema===
++ Indentificar os componentes
++ Papel de cada componente
++ Interdependência das peças
