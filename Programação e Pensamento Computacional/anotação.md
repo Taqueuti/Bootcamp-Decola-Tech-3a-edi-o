@@ -1,2 +1,4 @@
-# Bem vindo as minhas anotações 🗒️
-Anotações Git/Github
+#                                                              *Pensamentos computacional* 💻
+
+## > Objetivo geral
+
