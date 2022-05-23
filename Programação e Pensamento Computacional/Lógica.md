@@ -33,7 +33,7 @@ Plantas ➡️ Projetos ➡️ Planejamentos
 
 ##### 2° Técnica estruturada:
  
- *disposição, disposição e ordem dos elementos essenciais que compõem um corpo concreto ou abstrato.
+ *disposição, disposição e ordem dos elementos essenciais que compõem um corpo concreto ou abstrato.*
 ###### **Processamaneto de dados**
 --------
  |objetivos | 
