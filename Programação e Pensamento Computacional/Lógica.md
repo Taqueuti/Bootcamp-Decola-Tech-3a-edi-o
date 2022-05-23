@@ -17,7 +17,7 @@
 ## Técnicas de Lógica de programação
 **Seguem a Lógica e determinam as instruções**
 Plantas ➡️ Projetos ➡️ Planejamentos
-
+-------------------------
 ##### 1° Técnica Linear
 + Modelo tradicional
 + Não tem vínculo
@@ -48,6 +48,7 @@ Acordar ➡️ faze o café ou fazer o suco ➡️ café da manhã
 ##### 3° Técnica modular:
 Módulo 1, Módulo 3, Módulo 2, Módulo 4, são partes independentes, controlada por um conjunto de regras.
 
+-----------------
 ###### Modelo Padrão:
 
 Dados de entrada ➡️ Processo de transformação ➡️ Dados de saída
