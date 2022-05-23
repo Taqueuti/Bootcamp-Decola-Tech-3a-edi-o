@@ -56,7 +56,7 @@
 | 1. Sequêncial| Dependências entre tarefas executadas em "fila"|
 | 2. Paralelo  | Tarefas podem ser executadas conmitantemente |
            
-==+ Eficiência
- Tempo==
+- + Eficiência
+- -Tempo
 	
 
