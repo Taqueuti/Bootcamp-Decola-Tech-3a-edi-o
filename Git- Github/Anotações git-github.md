@@ -1,8 +1,10 @@
-# Bem vindo as minhas anotações 🗒️
+# Comandos Terminal **GIT** :octocat:
 
-## > Redes Sociais 📱
-#### Me seguem 😄
-+ https://www.facebook.com/lucas.taqueuti/
-+ https://www.linkedin.com/in/lucas-taqueuti-63bb48233/
-+ https://www.instagram.com/lucastaqueuti/
-
+- Dir = *Lista de Diretorios aonde está a pasta*
+- CD = *Navegar entre as pastas*
+- Cls = *Limpar a tela*
+- Mkdir = *Criar uma pasta*
+- echo = *Printa uma menssagem*
+- echo nome > Hello.txt = *Vai criar um arquivo
+- Del = *Deletar os arquivos*
+- Rmdir /s /q =  *Remover a pasta*
