@@ -72,7 +72,7 @@ Indentificar ou coletar dados ➡️ Agregar os dados ➡️ funcionalidade ➡�
 
 
 #### Ex do cotidiano: Bike 🚲.
-===Funçcionamento do Sistema===
+**Funcionamento do Sistema**
 + Indentificar os componentes
 + Papel de cada componente
 + Interdependência das peças
