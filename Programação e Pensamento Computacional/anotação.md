@@ -33,7 +33,7 @@
   == É uma forma de pensamentos estrturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema ==
   
   
- | Classificação| |
+ | Classificação|Exemplos |
 | ----------- | ----------- |
 | Indução| Fenômeno observado ➡️ leis e teorias|
 | Dedução  | Leis e teorias ➡️ preluisões e explicações |
