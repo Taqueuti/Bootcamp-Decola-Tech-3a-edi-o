@@ -14,7 +14,6 @@
 
 "Organização e planejamento das instruções, assertivas em algoritmos, a fim de viabilizar a implantação de um programa."
 
-----------------------------------------------------------------
 ## Técnicas de Lógica de programação
 **Seguem a Lógica e determinam as instruções**
 Plantas ➡️ Projetos ➡️ Planejamentos
