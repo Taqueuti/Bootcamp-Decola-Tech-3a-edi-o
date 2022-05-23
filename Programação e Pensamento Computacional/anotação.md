@@ -13,7 +13,8 @@
  
  ## Baseado em 4 pilares :
  
-
+	|  | 4 Pilares |
+| ----------- | ----------- |
 | Dividir um problema complexo em subproblemas ➡️| 1. Decomposição |
 | Indentificar padrões ou tendências ➡️ | 2. Reconhecimento de padrões |
 | Extrapolar o conceito do problema para uma forma generalista ➡️ | 3. Abstação |
