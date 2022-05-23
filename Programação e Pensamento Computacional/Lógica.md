@@ -25,7 +25,7 @@ Plantas ➡️ Projetos ➡️ Planejamentos
    - Estrutura Hierárquica
    - Programação de computadores
 
-**###### Execução sequenciada:**
+##### **Execução sequenciada:**
  ordenação de elementos por uma única propriedade
 
 ###### EX do dia a dia:
