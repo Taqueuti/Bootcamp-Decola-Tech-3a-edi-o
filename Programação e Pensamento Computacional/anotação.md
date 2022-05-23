@@ -57,6 +57,6 @@
 | 2. Paralelo  | Tarefas podem ser executadas conmitantemente |
            
 ==+ Eficiência
-- Tempo==
+ Tempo==
 	
 
