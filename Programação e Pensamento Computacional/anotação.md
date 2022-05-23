@@ -76,3 +76,18 @@ Indentificar ou coletar dados ➡️ Agregar os dados ➡️ funcionalidade ➡�
 + Indentificar os componentes
 + Papel de cada componente
 + Interdependência das peças
+
+
+#### Ex de criar um app 📱.
+**Definiçãp de componentes**
++ Finalidade
++ Interface
++ funcionalidade
++ Pré-requisitos
+
+#### Ex de artigo 📑.
+**Definição de omponentes e etapas**
++ O que será abordado?
++ Estrutura
++ Conteúdo de cada tópico
++ Textos de conexão
