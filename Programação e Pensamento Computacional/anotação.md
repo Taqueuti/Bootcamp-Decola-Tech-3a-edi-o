@@ -29,8 +29,8 @@
 |Raciocínio Lógico 🧠|
 |Aperfeiçoamento 📈| 
 
-- Raciocínio Lógico:
-  == É uma forma de pensamentos estrturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema ==
+- ###Raciocínio Lógico:
+   É uma forma de pensamentos estrturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema 
   
   
  | Classificação|Exemplos |
