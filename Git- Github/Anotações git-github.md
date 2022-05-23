@@ -12,4 +12,4 @@
 - Rmdir /s /q =  *Remover a pasta*
 ------
 ## Sha1
- A sigla ==SHA== significa
+ A sigla `SHA` significa
