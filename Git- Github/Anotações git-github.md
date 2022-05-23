@@ -18,7 +18,6 @@
 - push = *envia e salva suas confirmações no repositório remoto.*
 - pull = *obter atualizações do repositório remoto. *
 - revert = *desfazer os commits*
-- 
 ------
 ## Sha
  A sigla `SHA` significa secure hash algorithm (Algoritmo de hash seguro), é um conjunto de funções hash cirptográficas projetadas pela `NSA`(Agência de segurança nacional dos EUA)
