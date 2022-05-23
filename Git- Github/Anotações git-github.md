@@ -29,7 +29,7 @@
 ## Objetoss internos do git
 
 - **Blobs**:
- **echo"conteúdo" | git hash-object --stdin**
+ `echo"conteúdo" | git hash-object --stdin`
  
  Objeto blob contém meta dados dentro dele, ele vai ter o tipo, tamanho, desse arquivo. e o conteúdo do arquivo
  
