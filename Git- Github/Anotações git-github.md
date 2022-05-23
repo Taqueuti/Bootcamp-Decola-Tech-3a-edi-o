@@ -3,13 +3,22 @@
 ## Comandos Terminal **GIT** 
 
 - Dir = *Lista de Diretorios aonde está a pasta*
-- CD = *Navegar entre as pastas*
-- Cls = *Limpar a tela*
-- Mkdir = *Criar uma pasta*
-- echo = *Printa uma menssagem*
-- echo nome > Hello.txt = *Vai criar um arquivo
-- Del = *Deletar os arquivos*
-- Rmdir /s /q =  *Remover a pasta*
+- CD = *Navegar entre as pastas.*
+- Cls = *Limpar a tela.*
+- Mkdir = *Criar uma pasta.*
+- echo = *Printa uma menssagem.*
+- echo nome > Hello.txt = *Vai criar um arquivo.*
+- Del = *Deletar os arquivos.*
+- Rmdir /s /q =  *Remover a pasta.*
+- clone = *baixar o código-fonte existente de um repositório remoto.*
+- init = *Esse comando cria um repositório vazio ou transforma uma pasta que você já tem, e que não está com controle de versão, em um repositório.*
+- status = *fornece algumas informações sobre a branch em que você estiver no momento, como seu nome, se ela está atualizada em relação à master e quais arquivos foram alterados.*
+- add = *incluir as alterações de um arquivo em nosso próximo commit.*
+- commit = *definir um ponto de verificação no processo de desenvolvimento, para o qual você pode voltar mais tarde, se necessário.*
+- push = *envia e salva suas confirmações no repositório remoto.*
+- pull = *obter atualizações do repositório remoto. *
+- revert = *desfazer os commits*
+- 
 ------
 ## Sha
  A sigla `SHA` significa secure hash algorithm (Algoritmo de hash seguro), é um conjunto de funções hash cirptográficas projetadas pela `NSA`(Agência de segurança nacional dos EUA)
