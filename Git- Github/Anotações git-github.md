@@ -1,4 +1,4 @@
-#Anotações do curso Git/Github :octocat:
+# Anotações do curso Git/Github :octocat:
 
 ## Comandos Terminal **GIT** 
 
