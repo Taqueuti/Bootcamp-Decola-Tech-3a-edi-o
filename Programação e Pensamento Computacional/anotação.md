@@ -14,7 +14,7 @@
  ## Baseado em 4 pilares :
  
  
- | Syntax | Description |
+ | OS | 4 pilares |
 | ----------- | ----------- |
 | Dividir um problema complexo em subproblemas ➡️| 1. Decomposição |
 | Indentificar padrões ou tendências ➡️ | 2. Reconhecimento de padrões |
