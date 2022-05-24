@@ -26,17 +26,17 @@ Plantas ➡️ Projetos ➡️ Planejamentos
    - Programação de computadores
 
 ##### **Execução sequenciada:**
- ordenação de elementos por uma única propriedade
+ Ordenação de elementos por uma única propriedade
 
 ###### EX do dia a dia:
  Acordo😴 ➡️ Fazer o café ☕ ➡️ Tomo o café ☕
 
 ##### 2° Técnica estruturada:
  
- *disposição, disposição e ordem dos elementos essenciais que compõem um corpo concreto ou abstrato.*
+ *Disposição, disposição e ordem dos elementos essenciais que compõem um corpo concreto ou abstrato.*
 
 ###### **Processamaneto de dados**
- |objetivos | 
+ |Objetivos | 
 | ----------- |
 | Escrita ➡️ Programas | 
 |Entendimento |
@@ -44,7 +44,7 @@ Plantas ➡️ Projetos ➡️ Planejamentos
 |Manuntenção ➡️ Facilitar|
 
 ###### EX do dia a dia:
-Acordar ➡️ faze o café ou fazer o suco ➡️ café da manhã
+Acordar ➡️ Faze o café ou fazer o suco ➡️ Café da manhã
 
 ##### 3° Técnica modular:
 Módulo 1, Módulo 3, Módulo 2, Módulo 4, são partes independentes, controlada por um conjunto de regras.
@@ -55,10 +55,10 @@ Módulo 1, Módulo 3, Módulo 2, Módulo 4, são partes independentes, controlad
 Dados de entrada ➡️ Processo de transformação ➡️ Dados de saída
 
 **Metas**
-- simplicificação
+- Simplicificação
 - Decompor o problema
 - Verificação do módulo
 
 
 **Regras:**
-Módulo preparar acordar ➡️ Módulo preparar bebida ➡️ módulo tomar café da manhã.
+Módulo preparar acordar ➡️ Módulo preparar bebida ➡️ Módulo tomar café da manhã.
