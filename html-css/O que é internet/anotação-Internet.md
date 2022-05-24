@@ -159,4 +159,4 @@ Porém, em vez de usarem textos para expressar as suas opiniões, os autores con
 + Pop-up é uma janela que abre no navegador da internet quando se acessa uma página na web ou algum link de redirecionamento. Normalmente, esta nova janela apresenta informações de destaque do site ou, na maioria dos casos, publicidades e anúncios.
 
 ### Youtuber:
-+ um usuário frequente do site de compartilhamento de vídeos YouTube, especialmente alguém que produz e aparece em vídeos no site
++ Um usuário frequente do site de compartilhamento de vídeos YouTube, especialmente alguém que produz e aparece em vídeos no site
