@@ -1,4 +1,4 @@
-#                                                              *Pensamentos computacional*  💻 🧠
+#                                                              *Pensamento computacional*  💻 🧠
 
 ## > Objetivo geral
  Apresentar os conceitos que caracterizam o pensamento computacional, permitindo que o dev entenda o que significa pensar computacionalmente.
