@@ -54,6 +54,6 @@
 
 ---------------------------
 ## Switch
-+ istribui internet para um ou mais de uma rede
++ Distribui internet para um ou mais de uma rede
 + Criado para ser "inteligente"
    
