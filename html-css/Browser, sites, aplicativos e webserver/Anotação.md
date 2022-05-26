@@ -46,3 +46,4 @@
 ----------------
 ## Web-service
 + Interface disponível para fazer requisições e consultas em bancos de dados inacessíveis(Correio e Governo)
++ O objetivo dos Web Services é a comunicação de aplicações através da Internet. Esta comunicação é realizada com intuito de facilitar a EAI (Enterprise Application Integration) que significa a integração das aplicações de uma empresa, ou seja, interoperabilidade entre a informação que circula numa organização nas diferentes aplicações como, por exemplo, o comércio electrónico com os seus clientes e seus fornecedores.
