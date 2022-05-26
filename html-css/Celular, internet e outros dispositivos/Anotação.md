@@ -1,15 +1,15 @@
 # Dados móveis
 
 ## SMS
-+ Quanto custa, para uma operadora de telefonia móvel, enviar um SMS ?
++ Quanto custa para uma operadora de telefonia móvel enviar um SMS ?
    + 0. Nada. Vazio. NULL
 + O celular troca, naturalmente, alguns bits com as torres de comunicações.
 
 ## MMS
-+ Transmissão de mensagens multimpidia (áudio, vídeo) por meio de uma espécie de conexão de dados pimitivas
++ Transmissão de mensagens multimidia (áudio, vídeo) por meio de uma espécie de conexão de dados primitivos.
 
 ---------
-# Conexão móveis
+# Conexões móveis
 + 1G (analógico):10 kpbs
 + 2G (ditial)(GSM(Global System for mobile communication)):97 kbps
 + GPRS (General Packet Radio Service) /"2.5G";
@@ -19,7 +19,7 @@
 
 --------------------
 # Wi-Fi
-Existe uma empresa chamado IEEE, e essa impresa define padrões para o WIfi.
+Existe uma empresa chamado IEEE, e essa empresa define padrões para o *Wi-Fi*.
 + IEEE 802.11: 2,4 GHZ, mbps
 + IEEE 802.11 a: 5 GHZ, 54 mbps
 + IEEE 802.11 b: 2,4 GHZ, 11 mbps(diminuição de interferência)
@@ -35,7 +35,7 @@ A organização IEEE (Instituto de Engenheiros Elétricos e Eletrônicos) foi fo
 + WEP: chaves(senha) 64 bits e de 128 bits
 + WPA: chave trocada periodicamente
 + WPA (AES) (802.11;)
-    +   +Segunraça
+    +   +Segurança
     +   +Processamento
  
 -----------------------------
@@ -45,9 +45,9 @@ A organização IEEE (Instituto de Engenheiros Elétricos e Eletrônicos) foi fo
 + Chromecast
 
 ----------------------------------
-# Bluetooth
+# *Bluetooth*
 + Conexão ponto-a-ponto
-+ O Bluetooth possibilita a comunicação entre dois dispositivos, quando estes estão próximos um do outro. Através dele é possível enviar arquivos, como músicas, vídeos, arquivos, documentos e etc., controlar dispositivos, como consoles de videogames, através dos joysticks sem fio, ou viabilizar a transmissão de dados em tempo real, como reprodução de músicas em caixas de som e fones de ouvido que dispensam fios.
++ O *Bluetooth* possibilita a comunicação entre dois dispositivos, quando estes estão próximos um ao outro. Através dele é possível enviar arquivos como músicas, vídeos, documentos etc., controlar dispositivos, como consoles de *videogames*, através dos *joysticks* sem fio, ou viabilizar a transmissão de dados em tempo real, como reprodução de músicas em caixas de som e fones de ouvido que dispensam fios.
 
 
 
