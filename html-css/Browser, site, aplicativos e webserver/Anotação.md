@@ -1,59 +1,54 @@
-# TCP/IP, Portas, Roteadores, Switches e Modens.
+# Dados móveis
 
-## TCP/IP
-- Protocolos de comunicação entre computadores em rede.
-     - Transmission control protocol - Protocolo de controle de transmissão (TCP)
-     - Internet protocol - Protocolo de internet (IP)
- - Modelo de camadas.
- - Antes de começar a transmissão é passada por 4 Tipos de Camadas
+## SMS
++ Quanto custa, para uma operadora de telefonia móvel, enviar um SMS ?
++ 0. Nada. Vazio. NULL
++ O celular troca, naturalmente, alguns bits com as torres de comunicações.
+
+## MMS
++ Transmissão de mensagens multimpidia (áudio, vídeo) por meio de uma espécie de conexão de dados pimitivas
+
+---------
+# Conexão móveis
++ 1G (analógico):10 kpbs
++ 2G (ditial)(GSM(Global System for mobile communication)):97 kbps
++ GPRS (General Packet Radio Service) /"2.5G";
++ 32-80 kbps-Dados + voz
++ EDGE (Enhanced Data Rates for GSM Evolution) / "2,75G"; 128-236 kbps
++ 3G (7 mbps), 4G (22,1 mbps), 5G (10 gbps)
+
+--------------------
+# Wi-Fi
+Existe uma empresa chamado IEEE, e essa impresa define padrões para o WIfi.
++ IEEE 802.11: 2,4 GHZ, mbps
++ IEEE 802.11 a: 5 GHZ, 54 mbps
++ IEEE 802.11 b: 2,4 GHZ, 11 mbps(diminuição de interferência)
++ IEEE 802.11 g: 2,4 GHZ, 54 mbps
++ IEEE 802.11 n: 2,4 GHZ / 5 GHZ, 150-600 mbps
+
+## IEEE
+O que faz o IEEE?
+A organização IEEE (Instituto de Engenheiros Elétricos e Eletrônicos) foi formada em 1963 e seus sócios são engenheiros, cientistas da computação, profissionais de telecomunicações etc. O IEEE é responsável pela criação de normas e padrões, e o comitê 802 é responsável pela parte de redes.
+
+-------------------------
+# Segurança
++ WEP: chaves(senha) 64 bits e de 128 bits
++ WPA: chave trocada periodicamente
++ WPA (AES) (802.11;)
+    +   +Segunraça
+    +   +Processamento
  
-### Camadas
- | 4 Camadas | Exemplos |
-| ----------- | ----------- |
-| 1. Física| Placa de rede |
-| 2. Rede | IP |
-| 3. Transporte| TCP, UDP |
-| 4. Aplicação | FTP, SMTP, HTTP |
+-----------------------------
+# Dispositivos na rede
++ Impressora
++ Scanner
++ Chromecast
 
----------------------
+----------------------------------
+# Bluetooth
++ Conexão ponto-a-ponto
 
-## TCP 🆚 UDP
-+ ### UDP
-+ Rápida
-+ Não confiável
-+ Não sabe quem recebe
-+ Livestream
-
--------------------
-+ ### TCP
-+ Voltada à conexão
-+ Handshake(Sabe quem está recebendo)
-+ Integridade, ordem dos dados
-+ Aplicativo de mensagens de texto
-
---------------------------------------------
-## Portas(Do inglêns: Ports)
-+ As portas são por onde os dados sairão e chegarão
-+ **20**: FTP
-+ **22**: SSH (Uma conexão segura para dois computadores executar comandos)
-+ **25**: SMTP (Pra envio de email)
-+ **53**: DNS (Tradutor de nome para IP, e de IP para nome)
-+ **80**: HTTP (Requisição simples para internet)
-+ **443**: HTTPS (Resquisição segura)
-
---------
-## Modem
-+ Modem é uma junção de duas palavras, ****Mo****dulator - ****Dem****odulator
-+ Hardware que converte dados em um formato que passa ser transmitido de um computador para o outro e lido por outro
-
----------------------
-## Roteador
-+ Distribui internet para um ou mais dispositivos de uma rede.
-    + Pode fazer a comunicação entre redes
-    + Pode ser "burra"
-
----------------------------
-## Switch
-+ Distribui internet para um ou mais de uma rede
-+ Criado para ser "inteligente"
-   
+| Syntax | Description | Description |
+| ----------- | ----------- |----------- |
+| Header | Title | Title |
+| Paragraph | Text | Text |
