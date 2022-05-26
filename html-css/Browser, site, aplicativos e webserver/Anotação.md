@@ -2,7 +2,7 @@
 
 ## SMS
 + Quanto custa, para uma operadora de telefonia móvel, enviar um SMS ?
-+ 0. Nada. Vazio. NULL
+   + 0. Nada. Vazio. NULL
 + O celular troca, naturalmente, alguns bits com as torres de comunicações.
 
 ## MMS
@@ -47,8 +47,20 @@ A organização IEEE (Instituto de Engenheiros Elétricos e Eletrônicos) foi fo
 ----------------------------------
 # Bluetooth
 + Conexão ponto-a-ponto
++ O Bluetooth possibilita a comunicação entre dois dispositivos, quando estes estão próximos um do outro. Através dele é possível enviar arquivos, como músicas, vídeos, arquivos, documentos e etc., controlar dispositivos, como consoles de videogames, através dos joysticks sem fio, ou viabilizar a transmissão de dados em tempo real, como reprodução de músicas em caixas de som e fones de ouvido que dispensam fios.
 
-| Syntax | Description | Description |
+
+
+| Classe | Potência máx | Alcance |                                                           
 | ----------- | ----------- |----------- |
-| Header | Title | Title |
-| Paragraph | Text | Text |
+| 1 | 100 mW | 100 m |
+| 2 | 2,3 mW | 10 m |
+| 3 | 1 mW | 1 m|
+ 
+| Versão | Taxa de transmissão |
+| ----------- | ----------- |
+| 1.2 | 1 mbps |
+| 2.0+EDR | 3 mbps |
+| 3.0 | 24 mbps |
+| 4.0 | 25 mbps |
+| 5.0 | 50 mbps |
