@@ -82,12 +82,33 @@ DPI é uma sigla relacionada com o mundo da tecnologia, que significa Dots Per I
 Assim como os algoritmos, a estrutura de dados é fundamental para a linguagem de programação. Ela é definida por um conjunto de dados armazenados na memória de um equipamento como um computador, por exemplo. Esses dados precisam funcionar de modo eficiente e fazer sentido.
 Uma estrutura de dados possui vários tipos. Conheça alguns dos principais e mais utilizados pela programação:
 
-Array (vetores): estruturas lineares e estática. São compostas por um número finito. O seu uso é recomendado para quando há dados armazenados que não apresentarão mudança significativa com o tempo.
-Lista: linear e dinâmica, possui nós que direcionam para o elemento a seguir (exceto o último).
-Àrvore: nessa estrutura, cada elemento possui pelo menos um outro associado a si.
-Fila: baseia-se no princípio FIFO. Ele remete às expressões em inglês “first in, first out”. Nessa estrutura os elementos que são inseridos no início serão os primeiros removidos.
-Pilha: essa estrutura baseia-se no princípio LIFO, que representa as expressões “last in, first out”. Nesse caso, os elementos inseridos por último serão removidos primeiramente.
+   + Array (vetores): estruturas lineares e estática. São compostas por um número finito. O seu uso é recomendado para quando há dados armazenados que não apresentarão mudança significativa com o tempo.
+ + Lista: linear e dinâmica, possui nós que direcionam para o elemento a seguir (exceto o último).
+ + Àrvore: nessa estrutura, cada elemento possui pelo menos um outro associado a si.
+  + Fila: baseia-se no princípio FIFO. Ele remete às expressões em inglês “first in, first out”. Nessa estrutura os elementos que são inseridos no início serão os primeiros removidos.
+  + Pilha: essa estrutura baseia-se no princípio LIFO, que representa as expressões “last in, first out”. Nesse caso, os elementos inseridos por último serão removidos primeiramente.
 Há ainda outros tipos de estruturas de dados, como Registro, Grafo, Heap e Tabela Hash. Entretanto, os seus usos são mais técnicos e difíceis de serem compreendidos por leigos.
+
++ ## Framework
+
+O que é uma framework?
+Framework é um termo inglês que, em sua tradução direta, significa estrutura. De maneira geral, essa estrutura é feita para resolver um problema específico. Na programação, um framework é um conjunto de códigos genéricos capaz de unir trechos de um projeto de desenvolvimento.
+
++ ## Meta tags
+
+Meta tags são elementos (comandos em HTML) que você cria para descrever o conteúdo de uma página para os mecanismos de busca. Assim, elas fornecem dados, como título ou breve resumo sobre o assunto abordado, para programas externos.
+
++ ## UI 
+
+O UI, ou User Interface, é um termo comumente utilizado para explicar como serão feitas as interações entre pessoas e softwares ou aplicativos.
+
++ ## UX
+
+Experiência do Usuário, a definição sobre o que é UX em português, consiste na experiência gerada com as interações de um usuário com determinada solução ou produto de uma marca.
+
++ ## WYSIWYG
+
+WYSIWYG é uma sigla em inglês formada pelas iniciais da expressão “What You See Is What You Get” e quer dizer “O que você vê é o que você obtém”. O termo é usado para classificar ferramentas de edição e desenvolvimento que permitem visualizar, em tempo real, exatamente aquilo que será publicado ou impresso.
 
 
 
