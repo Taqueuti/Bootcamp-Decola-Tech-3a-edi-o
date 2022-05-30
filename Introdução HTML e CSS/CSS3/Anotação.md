@@ -24,3 +24,38 @@
 
 + Content: A propriedade CSS content é usada com os pseudoelementos ::before e ::after para gerar conteúdo em um elemento. Objetos inseridos usando a propriedade content são elementos substituídos anônimos.
 
+-----------------------------
+
+## Estilizando textos
++ Já sabemos que podemos mudar cor e tamanho de algumas fontes, e agora vamos nos aprofundar nisso.
+
+ 
+
+### font-family
+ + Com o font-family podemos alterar a fonte dos nossos textos, como uma fonte da internet ou uma que esteja instalada no nosso computador, mas vamos nos ater às fontes seguras, chamadas de web safe fonts.
+
+Essas fontes são chamadas assim pois são encontradas em quases todos os sistemas e podem ser usadas sem preocupação.
+
+ 
+
+### font-size
+O font-size nos ajuda a mudar o tamanho do texto, existem algumas unidades de medida para ele mas por enquanto os pixels são suficientes para nós.
+
+ 
+
+### font-style
+Usamos o font-style para tornar um texto itálico, na maioria das vezes você usará apenas o valor italic para ele, mas se precisar tirar o itálico de um texto você pode usar o valor normal.
+
+-------------------------
+
+## Background
+A propriedade background também é um atalho para várias propriedades, mas isso vocês podem absorver aos poucos, e uma boa opção de leitura é a documentação do MDN.
+
+Por enquanto veremos apenas como mudar a cor de fundo.
+
+ 
+
+E aqui temos 3 formas de colocar uma cor de fundo, e ainda existem outras.
+
+A primeira é pelo nome da cor em inglês, a segunda é pelo código hexadecimal e a terceira é usando apenas o atalho background.
+
