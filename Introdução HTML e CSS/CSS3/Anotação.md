@@ -14,7 +14,7 @@
 
 ### Box model
 
-!(https://www.alura.com.br/artigos/assets/entendendo-como-funciona-box-model-e-o-box-sizing/box-model-no-devtools.png)!
+<img src="https://www.alura.com.br/artigos/assets/entendendo-como-funciona-box-model-e-o-box-sizing/box-model-no-devtools.png" />
 
 + Margin: A propriedade margin do CSS define a área de margem nos quatro lados do elemento. É uma abreviação que define todas as margens individuais de uma só vez: margin-top , margin-right (en-US), margin-bottom , e margin-left (en-US).
 
