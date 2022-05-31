@@ -59,3 +59,24 @@ E aqui temos 3 formas de colocar uma cor de fundo, e ainda existem outras.
 
 A primeira é pelo nome da cor em inglês, a segunda é pelo código hexadecimal e a terceira é usando apenas o atalho background.
 
+---------------------------
+
+## Dimensão e alinhamento
+
+### Width
++ A propriedade CSS width determina a largura da área de conteúdo de um elemento. A área de conteúdo fica dentro do preenchimento, da borda, e da margem de um elemento.
+
+### Height
++ A propriedade CSS height determina a altura da área de conteúdo de um elemento. A área de conteúdo fica dentro do preenchimento, da borda, e da margem de um elemento.
+
+### Max-width
++ A propriedade max-width do CSS estabelece a largura máxima de um elemento. Ele evita que o valor usado da propriedade width se torne maior que o valor especificado por max-width.
+
+### Max-Heigth
++ A propriedade max-heigth do CSS estabelece a altura máxima de um elemento. Ele evita que o valor usado da propriedade heigth se torne maior que o valor especificado por max-heigth.
+
+### Margin
++ A propriedade margin em CSS define o espaço exterior entre os elementos. Compreende também o espaçamento entre os elementos e tela do navegador do usuário, por exemplo, o desenvolvedor deseja que um elemento fique a 20px do topo da página do usuário.
+
+### Text-align
++ A propriedade CSS text-align descreve como conteúdo inline, como texto, é alinhado no elemento pai em bloco. text-align não controla o alinhamento de elementos em bloco, apenas o seu conteúdo inline.
