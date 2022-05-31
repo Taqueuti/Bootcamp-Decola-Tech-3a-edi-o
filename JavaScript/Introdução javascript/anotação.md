@@ -1,10 +1,10 @@
-# JavaScript
+# JavaScript 
 ## Constantes e variáveis
 
 ### Variáveis
 + Uma variável é um nome que definimos para armazenar dados de forma simples. O valor de uma variável pode ser alterado no andamento do algoritmo, por isso o nome de variável.
 
-##### Tipos de variáveis
+### Tipos de variáveis
 Ao declarar uma variável nós precisamos informar de qual tipo é aquela variável. Cada linguagem de programação oferece um conjunto de tipos de variáveis, onde os mais comuns são:
 
 + int: Variável número do tipo inteiro, positivo ou negativo.
