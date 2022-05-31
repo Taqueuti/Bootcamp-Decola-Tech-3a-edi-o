@@ -22,11 +22,14 @@ Ao declarar uma variável nós precisamos informar de qual tipo é aquela variá
 ## Funções
 + Uma função é um pedaço de código que faz alguma tarefa específica e pode ser chamado de qualquer parte do programa quantas vezes desejarmos.
 
-`function soma(a, b){`
-   `return a + b; //8`
-   `}`
+function soma(a, b){
 
-   `soma(3, 5);`
+   return a + b; 
+   
+   
+   }
+
+   soma(3, 5);
 
 ------------------
 
