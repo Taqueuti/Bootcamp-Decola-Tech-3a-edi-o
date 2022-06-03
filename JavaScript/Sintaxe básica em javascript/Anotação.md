@@ -65,10 +65,10 @@ São tipos de operadores matemáticos com valo númericos:
 # Operadores realacionais
 São tipos de operadores que consultam a relação entre valores:
 
-+ >maior que;
-+ <menor que;
-+ >= maior ou igual a;
-+ <=menor ou igual a;
++ `> maior que;`
++ `< menor que;`
++ `>= maior ou igual a;`
++ `< =menor ou igual a;`
 
 # Operadores lógicos
 São tipos de operadores que consultam valores lógicos:
@@ -187,7 +187,8 @@ jogador1 > 0?console.log('marcou ponto'):console.log('não marcou ponto');
 ## Usando switch/case
 O "switch/case" funciona como uma estrutura condicional também;
 
-Ex: switch(${expressao}){
+Ex: 
+    switch(${expressao}){
     case 1:
         ${instrucao};
     break;
@@ -210,9 +211,11 @@ Funciona como uma repetição de instrução até que a condição seja falsa:
 for([expressaoInicial];[condicao]; [incremento]){
     declaracao}
 
-Ex.: var array =['valor1','valor2','valor3','valor4']
+Ex.: 
 
-for(let i = 0;i<array.length;i++){
+     var array =['valor1','valor2','valor3','valor4']
+
+     for(let i = 0;i<array.length;i++){
     console.log(i);
 }
 
@@ -233,16 +236,26 @@ Funciona como uma repetição a partir de um valor:
 
 for([indice] of [array]){
     declaracao}
-Ex.: var array =['valor1','valor2','valor3','valor4']
+Ex.: 
 
-for(i of array){
-    console.log(i);
+
+
+
+       var array =['valor1','valor2','valor3','valor4']
+         for(i of array){
+         console.log(i);
 }
 
 ### While
 Executa uma instrução "enquanto" determinada condição for verdadeira, a verificação é feita antes da execução;
 
-Ex.: var a = 0;
+Ex.: 
+
+
+
+    var a = 0;
+    
+    
      while(a<10){
          a ++;
          console.log
@@ -252,10 +265,16 @@ Ex.: var a = 0;
 ### Do/While
 Executa uma instrução "_até que_" determinada condição seja falsa, a verificação é feita depois da execução;
 
-Ex: var a = 0;
-    do{
+Ex: 
+    
+    var a = 0;
+
+     do{
+    
         a++
+        
         console.log(a);
+        
     }while(a<10)
 
 // como ler: a variável _a_ vai receber mais um e imprimir no console _até que_ seu valor chegue a 10.
