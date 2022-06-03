@@ -314,3 +314,13 @@ Ex.:
           }
           
           nomeDaFuncao(valorDoParametro);
+          
+
+##  Arrow Function
++ São funções de expressão de sintaxe curta. Arrow functions sempre serão anônimas, e portanto não podem ser nomeadas. Devem ser declaradas com parênteses "()", seguido de "=>" e depois chaves "{}"
+
+Ex.: 
+
+          var funcao = () =>{
+          ${instrucao};
+          }
