@@ -44,7 +44,7 @@
 |   Operador  | Descrição   |
 | ----------- | ----------- |
 | &&  | "e" lógico  |
-| || | "ou" lógico  |
+| ││ | "ou" lógico  |
 | !  | "não" lógico |
 
 ## Condicional(ternário)
