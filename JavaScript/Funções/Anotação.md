@@ -159,9 +159,132 @@ _Funções que representam expressões_
                                 getFullName(user)
                                 // Jhon Doe
                                 
-+ Entre chaves {}, podemos filtrar apenas os dados que nos interressam em um objeto
-                                
-               
++ Entre chaves {}, podemos filtrar apenas os dados que nos interressam em um objeto.
 
+# Loops
+
+## Switch/case
+
+                               function getAnimal(id) {
+                               switch(id) {
+                                  case 1:
+                                    return "cão";
+                                   case 2:
+                                    return "gato";
+                                   case 3:
+                                    return "pássaro";
+                                   default:
+                                    return "peixe";
+                                   }
+                                  }
+                                  
+                                  getAnimal(1) //cão
+                                  getAnimal(4) /peixe
+                                  getAnimal("1") // peixe
+
++ Equivale a uma comparação de tipo e valor (===)
++ Sempre precisa de um valor "default"
++ Ideal para quando se precisa comparar muitos valores
+
+--------------------------------
+## For
+*Loop dentro de elementos iteráveis (arrays, strings).*
+                                   
+                                function multiplicaPorDois(arr) {
+                                   let multiplicados = [];
+                                   
+                                   for(let i = 0; i < arr.length; i++){
+                                    multiplicados.push(arr[i] * 2);
+                                    }
+                                    
+                                     return multiplicados;
+                                     
+                                    }
+                                    
+                                    const meusNumeros = [2, 33, 456, 356, 40];
+                                    
+                                    multiplicaPorDois(meusNumeros);
+                                    // [4, 66, 912, 712, 88]
+                                    
+
+## For...in
+*Loop entre propriedades enumeráveis de um objeto.*
+
+                                 function forInExemplo(obj) {
+                                    for(prop in obj) {
+                                     console.log(prop);
+                                    }
+                                   }
+                                   
+                                    const meuObjeto = {
+                                     nome: "João",
+                                     idade: "28",
+                                     cidade: "Salvador"
+                                    }
+                                    
+                                    forInExemplo(meuObjeto);
+                                    // nome
+                                    // idade
+                                    // cidade
+                                    
+## For...of
+*Loop entre estruturas iteráveis(arrays, strings).*
+
+                                function logLetras(palavra) {
+                                  for(letra of palavra) {
+                                   console.log(letra);
+                                  }
+                                 }
+                                 
+                                 const palavra = "abacaxi";
+                                 
+                                 logLetras(palavras)
+                                 // a
+                                 // b
+                                 // a
+                                 // c
+                                 // a
+                                 // x
+                                 // i
+ 
+ ## While
+                            
+                                  function exemploWhile() {
+                                     let num = 0
+                                     
+                                     while(num <= 5){
+                                      console.log(num);
+                                      num ++;
+                                    }
+                                   }
+                                   
+                                   exemploWhile()
+                                   // 0
+                                   // 1
+                                   // 2
+                                   // 3
+                                   // 4
+                                   // 5
+  
+  + Executa instruções até que a condição se torne falsa.
+                                     
+                                 
+                                
+ ## Do...while
+ 
+                                function exemploDoWhile() {
+                                  let num = 6;
+                                  
+                                  do {
+                                    console.log(num);
+                                    num++;
+                                  } while(num <= 5)
+                                 }
+                                 
+                                  exemploDoWhile()
+                                  // 6
+
++ Executa instruções até que a condição se torne falsa.
++  Porém **a primeira execução sempre ocorre.**
 
                               
