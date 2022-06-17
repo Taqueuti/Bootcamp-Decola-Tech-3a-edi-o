@@ -287,4 +287,5 @@ _Funções que representam expressões_
 + Executa instruções até que a condição se torne falsa.
 +  Porém **a primeira execução sempre ocorre.**
 
+
                               
