@@ -1,0 +1,146 @@
+# Definição
+
+## Assíncrono
+"Que não ocorre ou não se efetiva ao mesmo tempo"
+
++ O javaSript roda de maneira **síncrona**
+
+# Promises
+*Objeto de processamento assíncrono*
+
++ Inicialmente, seu valor é desconhecido. Ela pode, então, ser resolvida ou rejeitada.
+
++ Uma promisse pode ter 3 estados
+1. Pending
+2. Fulfilled
+3. Rejected
+
+## Estrutura
+
+                                 const myPromise= new promise(( resolve, reject) => {
+                                   window.setTimeout(() => {
+                                      resolve(console.log('Resolvida!'));
+                                    }, 2000);
+                                  });
+                                  
+## Manipulação
+                                 
+                                 const myPromise= new promise(( resolve, reject) => {
+                                   window.setTimeout(() => {
+                                      resolve(console.log('Resolvida!'));
+                                    }, 2000);
+                                  });
+                                  
+                                  await myPromise
+                                        .then((result)) => result + 'passando pelo then')
+                                        .then((result) => result + ' e agora acabou!')
+                                        .catch((err) => console.log(err.message));
+                                        
+  ## Async/await
+  *Funções assícronas precisam dessas duas palavras chave.*
+  
+                                     async myPromise= new promise(( resolve, reject) => {
+                                   const myPromise = new Promise((resolve, reject) => {
+                                     window.setTimeout(() => {
+                                        resolve('Resolvida')
+                                    }, 3000);
+                                  });
+                                  
+                                  await resolved = await myPromise
+                                        .then((result)) => result + 'passando pelo then')
+                                        .then((result) => result + ' e agora acabou!')
+                                        .catch((err) => console.log(err.message));
+                                        
+                                        return resolved;
+                                     }
+                                     
+------------------------
+Utilizando o try... catch
+
+                                   async myPromise= new promise(( resolve, reject) => {
+                                   const myPromise = new Promise((resolve, reject) => {
+                                     window.setTimeout(() => {
+                                        resolve('Resolvida')
+                                    }, 3000);
+                                  });
+                                  
+                                  let result;
+                                  
+                                  try {
+                                  result = await myPromise
+                                    .then((result) => result + 'passando pelo then)
+                                    .then((result) => result + ' e agora acabou!)
+                                    } catch(err) {
+                                       result = err.message;
+                                     }
+                                     
+                                     return result;
+                                     
+                                     }
+                                     
+
+
+# APIs
+
+## O que são APIs ?
+*Application Programming Interface*
+
++ Uma API é uma forma de intermediar os resultados do back-end com o que é apresentado no front-end.
++ Você consegue acessá-la por meio de URLs.
+
+**JSON: JavaScript Object Notation**
++ É muito comum que APIs retornem seus dados no formato .json, portanto precisamos tratar esses dados quando os recebermos.
+                                          
+                                          {
+                                          "description": "schema POST bank",
+                                          "type": "object",
+                                          "properties": {
+                                          "id": {
+                                            "type": "number",
+                                            "minium": 0
+                                            
+                                           },
+                                           "code": {
+                                              "type": "string"
+                                            }
+                                           }
+                                         }
+                                        
+ # Fetch
+ *Consumindo APIs*
+ 
+                              fetch(url, options)
+                                .then(response => response.json())
+                                .then(json => console.log(json))
+                                
+                                // retorn uma promise
+                                
+## Operações no banco (POST, GET, PUT, DELETE, etc)
+
+                              fetch('hhtps://endereco-api.com/', {
+                               method: 'GET' ,
+                               cache: 'no-cache',
+                               
+                               })
+                                 .then(response => response.json())
+                                 .then(json => console.log(json))
+                                 
+                                 //retorn uma promise
+                                 
+                                 ----------------------------
+                                 
+                                 fetch('hhtps://endereco-api.com/', {
+                               method: 'POST
+                               cache: 'no-cache',
+                               body: JSON.stringify(data)
+                               
+                               })
+                                 .then(response => response.json())
+                                 .then(json => console.log(json))
+                                 
+                                 //retorn uma promise
+
+                                          
+
+
+                                      
