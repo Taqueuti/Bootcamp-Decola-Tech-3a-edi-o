@@ -8,7 +8,7 @@ A programação tem dois tipos de paradigmas, que são impeerativo e declarativo
 + Herença
 + Polimorfismo
 + Encapsulamento
-+ Astração
++ Abstração
 
 
 ## Pilares
